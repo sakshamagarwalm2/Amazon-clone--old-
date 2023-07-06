@@ -4,6 +4,12 @@
     border: border-box;
     text-decoration: none;
 }
+@media (max-width=300px){
+    *{
+        font-family:san-serif;border: border-box;
+    text-decoration: none; margin: 0;
+    }
+}
 .navbar{
     height: 60px;
     background-color: #0f1111;
