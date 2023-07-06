@@ -4,7 +4,7 @@
     border: border-box;
     text-decoration: none;
 }
-@media (max-width=300px){
+@media (max-width=500px){
     *{
         font-family:san-serif;border: border-box;
     text-decoration: none; margin: 0;
